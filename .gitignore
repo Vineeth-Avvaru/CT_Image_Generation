@@ -14,3 +14,4 @@ data/pgnn/pgnn/man.py
 data/pgnn/pgnn/models/Untitled document.docx
 data/pgnn/pgnn/models/graphcnn.py
 data/pgnn/pgnn/models/graphcnnactorcritic.py
+client/node_modules
