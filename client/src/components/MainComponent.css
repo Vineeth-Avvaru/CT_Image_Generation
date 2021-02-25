@@ -1,0 +1,30 @@
+.main-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.top-container {
+  display: flex;
+  flex-direction: row;
+  height: 40vh;
+}
+
+.bottom-container {
+  height: 60vh;
+}
+
+.temp-style {
+  border: black solid 2px;
+}
+
+.sample-generation-container {
+  width: 50vw;
+}
+
+.sample-collection-container {
+  width: 25vw;
+}
+
+.database-statistics-container {
+  width: 25vw;
+}
