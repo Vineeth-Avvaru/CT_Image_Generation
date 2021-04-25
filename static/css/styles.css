@@ -83,12 +83,12 @@
 .organ-description-green {
     background-color: #5cb85c;
     border-color: #4cae4c;
-    opacity: 0.9;
+    opacity: 0.8;
 }
 
 .organ-description-red {
     background-color:rgb(223, 94, 94);
-    opacity: 0.9;
+    opacity: 0.8;
 }
 
 .organ-description:hover {
